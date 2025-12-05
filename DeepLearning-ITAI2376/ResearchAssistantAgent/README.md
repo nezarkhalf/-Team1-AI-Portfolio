@@ -8,6 +8,7 @@ Team Members:
 - Sufyan Rafiq
 - Hayden Wood
 - Nezar Khalfallah
+
 This folder contains the code and related files for our Research Assistant Agent project.
 
 ## Project Overview
